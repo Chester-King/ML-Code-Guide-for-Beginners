@@ -6,3 +6,4 @@
 - **Commit 2** Importing Dataset
 - **Commit 3** Taking care of missing data
 - **Commit 4** Encoding Categorical Data
+- **Commit 5** Splitting the dataset into training and test set
