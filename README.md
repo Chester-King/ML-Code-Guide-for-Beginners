@@ -1,6 +1,8 @@
 # ML Guide for beginners
 
-### Step by Step code guide on how to get started with Machine Learning
+## Step by Step code guide on how to get started with Machine Learning
+
+### Data Preprocessing
 
 - **Commit 1** Importing the Libraries
 - **Commit 2** Importing Dataset
@@ -8,3 +10,7 @@
 - **Commit 4** Encoding Categorical Data
 - **Commit 5** Splitting the dataset into training and test set
 - **Commit 6** Feature Scaling
+
+### Simple Linear Rregression
+
+- **Commit 7** Preprocessing to prepare for Simple Linear Rregression
