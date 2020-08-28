@@ -15,3 +15,4 @@
 
 - **Commit 7** Preprocessing to prepare for Simple Linear Rregression
 - **Commit 8** Training the Simple Linear Regression model on the Training Set
+- **Commit 9** Predicting the test set results
