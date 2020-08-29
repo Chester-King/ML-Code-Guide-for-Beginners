@@ -18,3 +18,4 @@
 - **Commit 9** Predicting the test set results
 - **Commit 10** Visualize the training set results
 - **Commit 11** Visualize the test set results
+- **Commit 12** Making a single prediction (for example the salary of an employee with 12 years of experience)
