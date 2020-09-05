@@ -24,3 +24,4 @@
 ### Multiple Linear Rregression
 
 - **Commit 14** DataSet of startups
+- **Commit 15** Preprocessing to prepare for Multiple Linear Rregression
