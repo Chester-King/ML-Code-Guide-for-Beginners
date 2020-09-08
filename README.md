@@ -25,3 +25,4 @@
 
 - **Commit 14** DataSet of startups
 - **Commit 15** Preprocessing to prepare for Multiple Linear Rregression
+- **Commit 16** Training the Multiple Linear Regression model on the Training Set
