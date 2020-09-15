@@ -28,3 +28,4 @@
 - **Commit 16** Training the Multiple Linear Regression model on the Training Set
 - **Commit 17** Predicting the Test set results
 - **Commit 18** Making a single prediction
+- **Commit 19** Getting the final linear regression equation with the values of the coefficients
