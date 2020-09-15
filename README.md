@@ -27,3 +27,4 @@
 - **Commit 15** Preprocessing to prepare for Multiple Linear Rregression
 - **Commit 16** Training the Multiple Linear Regression model on the Training Set
 - **Commit 17** Predicting the Test set results
+- **Commit 18** Making a single prediction
